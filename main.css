@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cantarell:700i');
+
+#banner{
+background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/02/66/46/93578aef452406a.jpg");
+margin: 0 auto;
+background-repeat: no-repeat;
+background-size: 100%;
+text-align: center;
+background-position: 50% 50%;	
+width: 1200px;
+height: 180px;
+color: orange;
+border: solid 6px ;
+border-color: orange;
+border-radius: 5px;
+border: ridge 6px;
+
+}
+/*
+.bowser {
+	
+position: 50% 50%;
+
+}*/
+
+
+
+
+#banner h1{	
+	margin-top: 75px;
+	color: Lightred;
+	font-family: 'Cantarell', sans-serif;
+}
+.nav {
+text-align: center;
+display: flex;
+justify-content: space-around;
+font-family: 'Cantarell', sans-serif;
+text-shadow: 1px 1px 1px; 
+}
+
+.nav a{
+color: white;	
+}
+body{
+background-color: black ;	
+}
+
+.para{
+text-align: center;	
+color: orange ;
+
+
+}
+
+.header{
+text-align: center;	
+color: orange;
+}
+
+.main{
+font-family: 'Cantarell', sans-serif;
+border: ridge 6px black;
+width: 1200px;
+margin: auto;
+border-radius: 5px;
+background-color: black;
+background-repeat: no-repeat;
+border-color: orange; 	
+}
+
+#footer{
+font-family: 'Cantarell', sans-serif;
+color: orange;
+text-align: center;	
+}
+
+/* GALLERY CSS */
+
+.main1{
+font-family: 'Cantarell', sans-serif;
+border: ridge 6px black;
+width: 1200px;
+margin: auto;
+border-radius: 5px;
+background-image: 200px, 200px url("https://vignette.wikia.nocookie.net/ahistoryofthemushroomkingdom/images/f/f4/Bowser_symbol.png/revision/latest?cb=20170929230503");
+background-repeat: repeat;
+border-color: orange; 
+}
+
+.img1{
+width: 600px;
+height: 800px;
+justify-content: center;
+margin-right: auto;
+margin-left: auto;
+border: solid black 10px;
+border-radius: 10px;
+border: ridge 8px;
+border-color: darkred;
+}
+
+.img2{
+width: 600px;
+height: 800px;
+border: solid black 10px;
+border-radius: 10px;
+border: ridge 8px;
+border-color: darkred;
+
+}
+
+.img3{
+width: 600px;
+height: 800px;
+border: solid black 10px;
+border-radius: 10px;
+border: ridge 8px;
+border-color: darkred;
+}
+
+/* GALLERY CSS */
+
+/* MEDIA CSS */
+
+.video{
+border: ridge 6px black;
+border-color: orange;
+border-radius: 10px;
+}
+
+/* MEDIA CSS */
+
+
+
